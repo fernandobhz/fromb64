@@ -1,0 +1,20 @@
+{
+  "name": "fromb64",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fernandobhz/fromb64.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fernandobhz/fromb64/issues"
+  },
+  "homepage": "https://github.com/fernandobhz/fromb64#readme"
+}
